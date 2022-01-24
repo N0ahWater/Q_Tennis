@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,BEIN SPORTS ENGLISH 2 4K
+http://test.extraott-iptv.com:88/3350390010/3350528102/27
+#EXTINF:-1,BEIN SPORTS 6 4K
+http://test.extraott-iptv.com:88/3350390010/3350528102/11
+#EXTINF:-1,BEIN SPORTS 5 4K
+http://test.extraott-iptv.com:88/3350390010/3350528102/10
+#EXTINF:-1,BEIN SPORTS 7 4K
+http://test.extraott-iptv.com:88/3350390010/3350528102/12
+#EXTINF:-1,SPO: beIN Sports 5 SD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/33
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="" group-title="TURKIYE SPOR KANALLARI VIP",TR: EUROSPORT 1 HD
+http://iptvhdnew.com:8080/1805/1805/283
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="" group-title="TURKIYE SPOR KANALLARI VIP",TR: EUROSPORT 2 HD
+http://190.15.32.30:80/22/tracks-v1a1/mono.m3u8
